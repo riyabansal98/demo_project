@@ -7,3 +7,5 @@ console.log("Hello did more changes");
 console.log("Hello did more and more changes");
 
 console.log("Did some changes in branch 1");
+
+console.log("Did some changes in branch 2");
